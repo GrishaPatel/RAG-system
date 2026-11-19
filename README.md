@@ -1,1 +1,1 @@
-# RAG-system
+# RAG_System
